@@ -2,7 +2,7 @@
 
 ## We build software.
 
-Established in 1961,Gruppo Consoli is the leader in the design, production, and sales of ceramic tiles. 
+Gruppo Consoli è una realtà solida e strutturata nel panorama del Facility Management che opera nei settori del soft e hard facility, offrendo soluzioni integrate e su misura per la gestione e la manutenzione di edifici, impianti e ambienti di lavoro.
 
 * [Gruppo Consoli](https://www.consoli.it/)
 ----
